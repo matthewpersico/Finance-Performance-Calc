@@ -1,5 +1,11 @@
 Revision history for Perl extension Finance::Performance::Calc.
 
+1.1  Tue Mar 31 03:16:28 PM EDT 2026
+     First code upload to git.
+        * Set license to Perl.
+        * Added git metadata.
+        * dos2unix and other formatting.
+
 1.01 Wed Apr 21 23:00:00 2004
 	Substantive:
 	- Makefile.PL: Changed perl version pragma from 5.008001 to
@@ -13,4 +19,3 @@ Revision history for Perl extension Finance::Performance::Calc.
 1.0  Tue Apr 20 20:47:02 2004
 	- original version; created by h2xs 1.23 with options
 		-AXc -n Finance::Performance::Calc -v 1.0
-
